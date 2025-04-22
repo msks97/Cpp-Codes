@@ -48,7 +48,7 @@ You can use any C++ compiler like g++, clang++, or an IDE like VSCode, Code::Blo
 
 ---
 
-🚀 Future Additions
+## 🚀 Future Additions
 
  LeetCode / HackerRank solutions
 
@@ -62,15 +62,15 @@ You can use any C++ compiler like g++, clang++, or an IDE like VSCode, Code::Blo
 
  ---
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 If you have useful C++ programs, optimizations, or educational content, feel free to fork this repo and open a pull request.
 
-🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 Hi, I'm Shaswat, a passionate C++ developer and problem solver, with interests in system-level programming and machine learning.
 I use this repository as a digital notebook to document my learning and help others in the community.
 
-⭐ Star this repository if you find it helpful!
+##⭐ Star this repository if you find it helpful!
 
 ---
 
